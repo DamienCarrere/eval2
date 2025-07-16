@@ -21,6 +21,16 @@ header h1 {
     border-radius: 50px;
 }
 
+.getting_started {
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.getting_started p {
+    color: #b8171f !important;
+}
+
 footer {
     background-color: black;
     color: white;
