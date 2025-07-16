@@ -4,6 +4,7 @@
 }
 
 
+
 header {
     background: linear-gradient(130deg, #ff00cc, #0000ff);
     color: white;
@@ -18,6 +19,16 @@ header h1 {
     background-color: orangered !important;
     color: white !important;
     border-radius: 50px;
+}
+
+.getting_started {
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.getting_started p {
+    color: #b8171f !important;
 }
 
 footer {
